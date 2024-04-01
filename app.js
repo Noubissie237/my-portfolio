@@ -1,4 +1,4 @@
-str = new String("Salut, je suis NOUBISSIE KAMGA WILFRIED");
+str = new String("Salut, je suis NOUBISSIE K. WILFRIED");
 let i = 0;
 dir = "D"
 
